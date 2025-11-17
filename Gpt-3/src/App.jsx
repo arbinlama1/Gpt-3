@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
 import './App.css';
 import { Article, Brands, Cta, Feature, Navbar } from './component';
 import { Blog, Features, Footer, Header, Possibility, WhatGpt3 } from './containers';
@@ -10,7 +8,7 @@ function App() {
 
   return (
     <div className='app'>
-      <div className="gradient__bg">
+      <div className="gradient__bg ">
         <Navbar />
         <Header />
       </div>
