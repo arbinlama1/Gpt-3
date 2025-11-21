@@ -36,7 +36,6 @@
     color: #fff;
     word-spacing: 2px;
 }
-
 .gpt3__footer-links {
     display: flex;
     justify-content: space-between;
@@ -81,6 +80,7 @@
     line-height: 17px;
     font-size: 14px;
     color: #ffffff;
+    margin-bottom: 0.9rem;
 }
 
 .gpt3__footer-links_div p {
