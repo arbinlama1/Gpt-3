@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css';
-import { Article, Brands, Cta, Feature, Navbar } from './component';
+import { Brands, Cta,Navbar } from './component';
 import { Blog, Features, Footer, Header, Possibility, WhatGpt3 } from './containers';
 
 function App() {
